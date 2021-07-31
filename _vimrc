@@ -20,6 +20,7 @@ nnoremap <silent><A-k> :set paste<CR>m`O<Esc>``:set nopaste<CR>
 " Erlend remaps
 map <S-E> $
 map <S-W> 0
+map <S-B> 0
 vmap <C-c> "*y
 map <C-v> p
 
